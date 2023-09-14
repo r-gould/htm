@@ -4,4 +4,5 @@ Description of the approach: https://r-gould.github.io/2023/08/03/understanding-
 
 Work in progress:
 * Vectorize spatial pooling and temporal memory algorithm?
+* Extend to include output layer, voting across columns
 * Performance analysis (currently limited by compute)
